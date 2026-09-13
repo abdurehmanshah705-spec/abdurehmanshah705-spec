@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Syed Abdurehman Shah 👋
 
-<!--
-**abdurehmanshah705-spec/abdurehmanshah705-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BSCS Student | Web Developer | Software Development Enthusiast
 
-Here are some ideas to get you started:
+I'm a BSCS student at the University of Central Punjab, currently learning and building projects in web and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 BSCS Student
+- 💻 Interested in Web Development and Software Development
+- 🌱 Currently learning modern web technologies and programming
+- 🔨 Building practical projects to improve my development skills
+- 🤝 Open to learning, collaboration, and internship opportunities
+
+## 🛠️ Skills
+
+- HTML
+- CSS
+- C#
+- .NET
+- .NET MAUI
+- SQLite
+- Git & GitHub
+
+## 📌 Projects
+
+### Rehman Group of Colleges
+A responsive website project built using HTML and CSS.
+
+### Universal Business System
+A business application developed for managing business operations using .NET MAUI and SQLite.
+
+## 📫 Contact
+
+- Email: abdurehmanshah705@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
